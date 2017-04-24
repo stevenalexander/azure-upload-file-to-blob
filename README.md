@@ -1,6 +1,6 @@
 # Azure upload file to blob storage
 
-Uploads a file to blob storage.
+Uploads a file to blob storage. Based on Azure documentation [here](https://docs.microsoft.com/en-us/azure/storage/storage-nodejs-how-to-use-blob-storage).
 
 Requires:
 * NodeJS
